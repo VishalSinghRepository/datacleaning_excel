@@ -1,18 +1,18 @@
-# Sales Dataset Cleaning 
+# Sales Dataset Cleaning | Excel
 
 ## Overview
 This repository contains the original and cleaned versions of a sales dataset. I used Microsoft Excel to clean the data as part of my project.
 
 ## Tools Used
-- Microsoft Excel | - Raw Bikesales Dataset(From Kaggle)
+- Microsoft Excel
+- Raw Bikesales Dataset(From Kaggle)
 
 ## Cleaning Steps Performed
 -First Import The Data from Data Section
 -Create A New Working Sheet to perform cleaning task
 
 1. **Removed Duplicates**
-   - Used `Remove Duplicates` tool to eliminate repeated rows based on the columns (ID,	Marital Status,	Gender,	 Income, 	Children,	Education,	Occupation,       
-     Home Owner,	Cars,	Commute Distance,	Region,	Age,	Purchased Bike)
+   - Used `Remove Duplicates` tool to eliminate repeated rows based on the columns (ID,	Marital Status,	Gender,	 Income, 	Children,	Education,	Occupation, Home Owner,	Cars,	Commute Distance,	Region,	Age,	Purchased Bike)
 ![image](https://github.com/user-attachments/assets/dd19ad61-59cb-48f3-8800-53992b52f2ab)
 
 
@@ -21,7 +21,7 @@ This repository contains the original and cleaned versions of a sales dataset. I
      steps involved---> ( ctrl+H ) over `Marital Status` ---> replace (`M` with `Married` and `S` with `Single`)
    - Ensured `Gender` column were replace as (`M` with `Male` and `F` with `Female`)
      
-     NOTE:if not changed, there will be a conflict in the final vizualization to what `M` incidates, as it refers to both `Male` and `Married`.
+     NOTE:If not changed, there will be a conflict in the final vizualization to what `M` incidates, as it refers to both `Male` and `Married`.
    
 3. **Corrected Data Types**
    - Changed `Income` to currency format.
@@ -39,7 +39,4 @@ This repository contains the original and cleaned versions of a sales dataset. I
 6. **Created a Clean Version**
    - Saved the cleaned data as `sales_data_cleaned.xlsx`.
 
----
-
-## Repository Structure
 
