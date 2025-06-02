@@ -8,9 +8,9 @@ This repository contains the original and cleaned versions of a sales dataset. I
 - Raw Bikesales Dataset(From Kaggle)
 
 ## Cleaning Steps Performed
--First Import The Data from Data Section
+- First Import The Data from Data Section
 
--Create A New Working Sheet to perform cleaning task
+- Create A New Working Sheet to perform cleaning task
 
 1. **Removed Duplicates**
    - Used `Remove Duplicates` tool to eliminate repeated rows based on the columns (ID,	Marital Status,	Gender,	 Income, 	Children,	Education,	Occupation, Home Owner,	Cars,	Commute Distance,	Region,	Age,	Purchased Bike)
