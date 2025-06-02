@@ -24,7 +24,7 @@ This repository contains the original and cleaned versions of a sales dataset. I
    
 3. **Corrected Data Types**
    - Changed `Income` to currency format.
-     steps involved---> click on `Income` on the Home-Tab ---> number section ---> choose currency`$` ---> remove `.00` format  inorder to keep it simple.
+     steps involved ---> click on `Income` on the Home-Tab ---> number section ---> choose currency`$` ---> remove `.00` format  inorder to keep it simple.
 
 4. **Inserted New Column**
    - `Age`column consists of variable distinct values, hence it would be a difficult to show clear insights in the final dashboard
