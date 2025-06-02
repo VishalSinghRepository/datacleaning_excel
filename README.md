@@ -29,11 +29,11 @@ This repository contains the original and cleaned versions of a sales dataset. I
 4. **Inserted New Column**
    - `Age`column consists of variable distinct values, hence it would be a difficult to show clear insights in the final dashboard
    - So create a new column say `Age Brackets` 
-     =IF(M2>55,"Old",IF([@Age]>30,"Middle Aged",IF([@Age]<=30,"Adolescent","Invalid"))) (showing the use case of "NESTED IF" Statement).
+     =IF(M2>55,"Old",IF([@Age]>30,"Middle Aged",IF([@Age]<=30,"Adolescent","Invalid"))) (showing the use case of `NESTED IF` Statement).
 
 5. **Commute Distance Formating**
    - replace `10+ Miles` as `More Than 10 Miles`
-   - ctrl+H and Replace-All
+   - `ctrl+H` and Replace-All
 
 6. **Created a Clean Version**
    - Saved the cleaned data as `sales_data_cleaned.xlsx`.
