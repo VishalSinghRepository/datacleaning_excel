@@ -1,4 +1,4 @@
-# Sales Dataset Cleaning | Excel
+# Sales Dataset Cleaning | Excel 
 
 ## Overview
 This repository contains the original and cleaned versions of a sales dataset. I used Microsoft Excel to clean the data as part of my project.
@@ -14,8 +14,6 @@ This repository contains the original and cleaned versions of a sales dataset. I
 
 1. **Removed Duplicates**
    - Used `Remove Duplicates` tool to eliminate repeated rows based on the columns (ID,	Marital Status,	Gender,	 Income, 	Children,	Education,	Occupation, Home Owner,	Cars,	Commute Distance,	Region,	Age,	Purchased Bike)
-![image](https://github.com/user-attachments/assets/dd19ad61-59cb-48f3-8800-53992b52f2ab)
-
 
 2. **Standardized The Data For Vizualization**
    - Converted `Marital Status` column to proper format.
