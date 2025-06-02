@@ -5,7 +5,7 @@ This repository contains the original and cleaned versions of a sales dataset. I
 
 ## Tools Used
 - Microsoft Excel
-- Raw Bikesales Dataset (From Kaggle: sales_data_cleaned.xlsx)
+- Raw Bikesales Dataset (From Kaggle: sales_data_orginal.xlsx)
 
 ## Cleaning Steps Performed
 - First import the data from `Data` section
