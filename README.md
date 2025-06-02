@@ -9,6 +9,7 @@ This repository contains the original and cleaned versions of a sales dataset. I
 
 ## Cleaning Steps Performed
 -First Import The Data from Data Section
+
 -Create A New Working Sheet to perform cleaning task
 
 1. **Removed Duplicates**
